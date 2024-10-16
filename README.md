@@ -1,4 +1,4 @@
-# dl-lab-1
+# Beijing Institute of Technology Course: Deep Learning Lab 1, 24 Spring
 
 Lab: Image Classification.
 
